@@ -495,7 +495,4 @@ creates another independent object.
 
 A **class defines what an object should have**, while an **object is the actual thing created from that class with its own data**.
 
-```
 
-One small correction to your original code: Python's constructor is written **`__init__`** with two underscores before and after `init`, not `**init**`. Also, indentation inside the class and method is mandatory.
-```
